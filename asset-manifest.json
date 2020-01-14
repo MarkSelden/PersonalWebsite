@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mark-selden/static/css/main.51fb2156.chunk.css",
+    "main.js": "/mark-selden/static/js/main.ff1f3a01.chunk.js",
+    "main.js.map": "/mark-selden/static/js/main.ff1f3a01.chunk.js.map",
+    "runtime-main.js": "/mark-selden/static/js/runtime-main.1eedfb9f.js",
+    "runtime-main.js.map": "/mark-selden/static/js/runtime-main.1eedfb9f.js.map",
+    "static/js/2.2803d68b.chunk.js": "/mark-selden/static/js/2.2803d68b.chunk.js",
+    "static/js/2.2803d68b.chunk.js.map": "/mark-selden/static/js/2.2803d68b.chunk.js.map",
+    "index.html": "/mark-selden/index.html",
+    "precache-manifest.4858320105fc4c53699a142ce55bcdc0.js": "/mark-selden/precache-manifest.4858320105fc4c53699a142ce55bcdc0.js",
+    "service-worker.js": "/mark-selden/service-worker.js",
+    "static/css/main.51fb2156.chunk.css.map": "/mark-selden/static/css/main.51fb2156.chunk.css.map",
+    "static/js/2.2803d68b.chunk.js.LICENSE": "/mark-selden/static/js/2.2803d68b.chunk.js.LICENSE",
+    "static/media/Me.JPG": "/mark-selden/static/media/Me.4e059d93.JPG",
+    "static/media/logo.svg": "/mark-selden/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eedfb9f.js",
+    "static/js/2.2803d68b.chunk.js",
+    "static/css/main.51fb2156.chunk.css",
+    "static/js/main.ff1f3a01.chunk.js"
+  ]
+}
